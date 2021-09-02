@@ -25,7 +25,7 @@
 
 <img src=https://img.shields.io/badge/ReactJS-blue alt=ReactJS style="margin-bottom: 5px;" />
   
-<img src=https://img.shields.io/badge/AngularJS-red alt=AngularJS style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Angular-red alt=Angular style="margin-bottom: 5px;" />
   
 </div>
  
